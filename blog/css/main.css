@@ -1,0 +1,15 @@
+/* 修改 cover 图片格式 */
+.post_cover.left, .post_cover.right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.post_cover.left a, .post_cover.right a {
+    display: inline-block;
+    height: 80%;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Lato, Roboto, 'PingFang SC', sans-serif;
+}
