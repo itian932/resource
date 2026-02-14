@@ -1,0 +1,26 @@
+[
+    {
+        "class_name": "IT社区",
+        "class_desc": "计算机常用的社区。",
+        "link_list": [
+            {
+                "name": "GitHub",
+                "link": "https://github.com/",
+                "avatar": "https://github.com/fluidicon.png",
+                "descr": "全球最大的Git仓库。"
+            },
+            {
+                "name": "Docker Hub",
+                "link": "https://hub.docker.com/",
+                "avatar": "https://hub.docker.com/favicon.ico",
+                "descr": "全球最大的Docker仓库。"
+            },
+            {
+                "name": "Docker Hub",
+                "link": "https://www.npmjs.com/",
+                "avatar": "https://static-production.npmjs.com/3dc95981de4241b35cd55fe126ab6b2c.png",
+                "descr": "全球最大的Node仓库。"
+            }
+        ]
+    }
+]
